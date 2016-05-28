@@ -10,10 +10,10 @@ How To Use:
 1) Create a txt file and write down your grammar in CNF (Chomsky Normal Form)
 2) Create a txt file with the words you want to analize
 3.1) If the files are named "gramatica.txt" and "palabras.txt"
-	3.1.1) Run tarea2.py (There's a "main" that will accept those filenames)
+	3.1.1) Run CYK.py (There's a "main" that will accept those filenames)
 3.2) If the files have different names
-	3.2.1) Edit tarea2.py and update the filenames to their respective values on line 170
-	3.2.2) Run tarea2.py
+	3.2.1) Edit CYK.py and update the filenames to their respective values on line 170
+	3.2.2) Run CYK.py
 4) Enjoy!
 
 
@@ -29,7 +29,7 @@ GRAMMAR:
 	vii) Write down only ONE grammar per file.
 
 WORDS:	
-	i) The first line must contain the number of RULES present in the grammar.
+	i) The first line must contain the number of WORDS to analize.
 	ii) Each WORD must be in a different line.
 
 
