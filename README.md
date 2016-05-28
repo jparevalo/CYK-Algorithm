@@ -7,7 +7,7 @@ Creator: Juan Pablo Arevalo
 
 How To Use:
 
-1) Create a txt file and write down your grammar in CNF (Chomsky Normal Form)
+1) Create a txt file and write down your grammar in CNF (Chomsky Normal Form)\n
 2) Create a txt file with the words you want to analize
 3.1) If the files are named "gramatica.txt" and "palabras.txt"
 	3.1.1) Run tarea2.py (There's a "main" that will accept those filenames)
