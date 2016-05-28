@@ -1,0 +1,14 @@
+13
+S -> EK
+S -> ED
+A -> EC
+A -> EG
+A -> EB
+A -> 0
+B -> EB
+B -> 0
+C -> AG
+D -> EG
+E -> 0
+G -> 1
+K -> EC
